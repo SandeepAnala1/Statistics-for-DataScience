@@ -60,3 +60,6 @@ A visual representation of the normal distribution with the empirical rule looks
 ### Application
 
 The empirical rule is useful in many practical scenarios, such as quality control, finance, and any field involving normally distributed data, providing a quick way to determine the spread of data and identify outliers.
+
+-----------------------------------------------------------------------------------------------------
+
