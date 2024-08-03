@@ -8,11 +8,13 @@ Variance measures how far each data point in a set is from the mean and thus fro
 
 ### Formula
 
-**Population Variance (\(\sigma^2\)):**
-\[ \sigma^2 = \frac{\sum_{i=1}^{N} (x_i - \mu)^2}{N} \]
+**Population Variance 
+![image](https://github.com/user-attachments/assets/a70dc0f8-8590-4441-a9ed-37c6b505a443)
 
-**Sample Variance (\(s^2\)):**
-\[ s^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1} \]
+
+**Sample Variance 
+![image](https://github.com/user-attachments/assets/b7dcc8c1-5c5b-4fc0-8b71-f97cef9628ac)
+
 
 Where:
 - \( N \) = Number of data points in the population
@@ -72,11 +74,11 @@ Standard deviation is the square root of the variance. It provides a measure of 
 
 ### Formula
 
-**Population Standard Deviation (\(\sigma\)):**
-\[ \sigma = \sqrt{\sigma^2} \]
+**Population Standard Deviation 
+![image](https://github.com/user-attachments/assets/8cdee346-b29e-4389-9600-458de4307119)
 
-**Sample Standard Deviation (\(s\)):**
-\[ s = \sqrt{s^2} \]
+**Sample Standard Deviation 
+![image](https://github.com/user-attachments/assets/2d5f78a9-6cb9-4559-bb74-f3eb720255a2)
 
 ### Why Standard Deviation?
 
