@@ -57,4 +57,50 @@ Now substitute and solve:
 
 ![image](https://github.com/user-attachments/assets/49da69c7-5962-4854-bd7e-7f54308b08b5)
 
+# Multiplication Rule
+## Independent Event
+- Eg: Rolling a dice {1,2,3,4,5,6}
+Any event here will not impact any event
 
+## Dependent Event
+- Eg: Bag of Marbles
+- When one event happened here, it will have impact on other events
+
+### Example 1 for Independent Event
+- What is the probability of rolling a "5" and then a "4" in a dice?
+
+To determine the probability of rolling a "5" and then a "4" in two consecutive rolls of a fair six-sided die, you can use the concept of independent events. Two events are independent if the outcome of one event does not affect the outcome of the other.
+
+![image](https://github.com/user-attachments/assets/f71c2297-7c7f-4da3-9d41-d1600bca0cd6)
+
+In this example:
+- Event A is rolling a "5".
+- Event B is rolling a "4".
+
+![image](https://github.com/user-attachments/assets/76849ec0-5a85-4032-8307-11492805c494)
+
+![image](https://github.com/user-attachments/assets/e102984b-7119-42d2-a880-03d10224e494)
+
+### Example of Dependent Event
+- What is the probability of drawing a queen and then a ace form a dect of cards
+
+To determine the probability of drawing a queen and then an ace from a deck of cards without replacement, we need to consider dependent events. The outcome of the first event affects the outcome of the second event.
+
+#### Step-by-Step Solution:
+
+1. **Probability of Drawing a Queen (First Event):**
+   - There are 4 queens in a standard deck of 52 cards.
+   ![image](https://github.com/user-attachments/assets/ed16b421-f884-4ccb-b432-e1e5027d597e)
+
+
+2. **Probability of Drawing an Ace (Second Event Given First Event):**
+   - After drawing a queen, there are now 51 cards left in the deck.
+   - There are still 4 aces in the deck.
+   ![image](https://github.com/user-attachments/assets/249c8969-61d0-4399-b7f9-64ca0f47cbbc)
+
+
+3. **Combined Probability Using the Multiplication Rule for Dependent Events:**
+   - The combined probability of both events happening is:
+   ![image](https://github.com/user-attachments/assets/b92ec3a8-6c8d-4062-953a-ebf34040af8b)
+
+Therefore, the probability of drawing a queen and then an ace from a deck of cards without replacement is \(\frac{4}{663}\).
